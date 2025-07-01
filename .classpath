@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="OOPs/Inheritance/|OOPs/|PakagePragram/" kind="src" path=""/>
+	<classpathentry excluding="Inheritance/" kind="src" path="OOPs"/>
+	<classpathentry kind="src" path="OOPs/Inheritance"/>
+	<classpathentry kind="src" path="PakagePragram"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
