@@ -1,10 +1,11 @@
-package collections;
+package collection;
 
 import java.util.HashSet;
 import java.util.Scanner;
 
 public class SetTask1 {
-    public static void main(String[] args) {
+
+	public static void main(String[] args) {
 //		Create a friends set and add a few friend names in that set.
 //		Try to check if Manoj is your friend or not, 
 //		try to count number of friends you have etc.
@@ -26,4 +27,3 @@ public class SetTask1 {
 	}
 
 }
-
