@@ -277,8 +277,5 @@ This repository serves as a learning resource and reference for Java programming
 
 This repository represents an ongoing journey of learning and skill development in Java programming. Each program demonstrates practical application of theoretical concepts and serves as a foundation for advanced Java development.
 
-**Feel free to explore, learn, and enhance your Java programming skills! Happy Coding!** 🚀
 
----
 
-⭐ **If you find this repository helpful for your Java learning journey, please consider giving it a star!** ⭐
