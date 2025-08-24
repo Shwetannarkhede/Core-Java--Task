@@ -225,7 +225,7 @@ Through this repository, I have achieved:
 ####  ✅ **Data Structure Knowledge**: Hands-on experience with arrays, strings, and basic data manipulation
 ####  ✅ **Database Integration Skills**: Proficient in JDBC connectivity and MySQL database operations
 ####  ✅ **OOP Mastery**: Strong implementation of object-oriented programming principles
-####  ✅ **Problem####Solving Skills**: Ability to break down complex problems into manageable solutions
+####  ✅ **Problem-Solving Skills**: Ability to break down complex problems into manageable solutions
 ####  ✅ **Code Organization**: Well-structured and documented code following Java best practices
 ####  ✅ **Algorithm Implementation**: Understanding of basic algorithms and their practical applications
 ####  ✅ **Database Design**: Knowledge of database schema design and normalization
